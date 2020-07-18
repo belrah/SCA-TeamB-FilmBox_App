@@ -2,6 +2,8 @@
 
 
 APP DESCRIPTION
+
+
 This project aims at building a Movie ticket and seat booking platform where a customer can view available tickets and book a seat. The customer can book as many tickets and seats as possible.
 
 The app shows a ticket seat illustration of a theater where a customer can choose exact seat location after which the seat will be made unavailable for selection.
